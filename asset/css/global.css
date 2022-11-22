@@ -1,0 +1,78 @@
+color: #000;
+font-size: 40px;
+font-family: "Boing", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+line-height: 1.2;
+font-weight: 800;
+
+@font-face{
+    font-family:'Boing';
+    font-style:normal;
+    font-weight:600;
+    font-display:swap;
+    src:url("../fonts/boing/boing_semibold_web.eot");
+    src:local("Boing SemiBold"),local("Boing-Semibold"),local("Boing Semibold WEB"),local("Boing"),url("../fonts/boing/boing_semibold_web.woff") format("woff"),url("../fonts/boing/boing_semibold_web.ttf") format("truetype"),url("../fonts/boing/boing_semibold_web.eot?#iefix") format("embedded-opentype"),url("../fonts/boing/boing_semibold_web.svg#WEBBoing-Semibold") format("svg");
+    text-rendering:optimizeLegibility;
+    unicode-range:U+000-5FF;
+}
+    
+@font-face{
+    font-family:'Graphik';
+    font-style:normal;
+    font-weight:300;
+    font-display:fallback;src:url("../fonts/graphik/graphik_light.eot");
+    src:local("Graphik Light"),local("Graphik-Light"),url("../fonts/graphik/graphik_light.ttf") format("truetype"),url("../fonts/graphik/graphik_light.eot?#iefix") format("embedded-opentype"),url("../fonts/graphik/graphik_light.woff") format("woff"),url("../fonts/graphik/graphik_light.svg#Graphik-Light") format("svg");
+    text-rendering:optimizeLegibility;
+    unicode-range:U+000-5FF;
+}
+    
+@font-face{
+    font-family:'Graphik';
+    font-style:normal;
+    font-weight:normal;
+    font-display:fallback;
+    src:url("../fonts/graphik/graphik_regular.eot");src:local("Graphik Regular"),local("Graphik-Regular"),url("../fonts/graphik/graphik_regular.woff") format("woff"),url("../fonts/graphik/graphik_regular.ttf") format("truetype"),url("../fonts/graphik/graphik_regular.eot?#iefix") format("embedded-opentype"),url("../fonts/graphik/graphik_regular.svg#Graphik-Regular") format("svg");
+    text-rendering:optimizeLegibility;
+    unicode-range:U+000-5FF;
+}
+
+@font-face{
+    font-family:'Graphik';
+    font-style:normal;
+    font-weight:500;
+    font-display:fallback;
+    src:url("../fonts/graphik/graphik_medium.eot");
+    src:local("Graphik Medium"),local("Graphik-Medium"),url("../fonts/graphik/graphik_medium.eot?#iefix") format("embedded-opentype"),url("../fonts/graphik/graphik_medium.woff") format("woff"),url("../fonts/graphik/graphik_medium.ttf") format("truetype"),url("../fonts/graphik/graphik_medium.svg#Graphik-Medium") format("svg");
+    text-rendering:optimizeLegibility;
+    unicode-range:U+000-5FF;
+}
+
+@font-face{
+    font-family:'Graphik';
+    font-display:fallback;
+    font-style:normal;
+    font-weight:600;
+    src:url("../fonts/graphik/graphik_semibold.eot");
+    src:local("Graphik Semibold"),local("Graphik-Semibold"),url("../fonts/graphik/graphik_semibold.woff2") format("woff2"),url("../fonts/graphik/graphik_semibold.woff") format("woff"),url("../fonts/graphik/graphik_semibold.ttf") format("truetype"),url("../fonts/graphik/graphik_semibold.svg#Graphik-Semibold") format("svg");
+    text-rendering:optimizeLegibility;
+    unicode-range:U+000-5FF;
+}
+
+@font-face{
+    font-family:'Tiempos Headline';
+    font-style:normal;
+    font-display:swap;
+    font-weight:600;
+    src:local("Tiempos Headline Bold"),local("TiemposHeadline-Bold"),url("../fonts/tiempos/TiemposHeadline-Bold.eot?#iefix") format("embedded-opentype"),url("../fonts/tiempos/TiemposHeadline-Bold.woff") format("woff"),url("../fonts/tiempos/TiemposHeadline-Bold.ttf") format("truetype"),url("../fonts/tiempos/TiemposHeadline-Bold.svg#TiemposHeadline-Bold") format("svg");
+    src:url("../fonts/tiempos/TiemposHeadline-Bold.eot");
+    unicode-range:U+000-5FF;
+}
+
+@font-face{
+    font-family:'Moret';
+    font-style:normal;
+    font-display:swap;
+    font-weight:normal;
+    src:url("../fonts/moret/Moret-Regular.eot");
+    src:local("Moret Regular"),local("Moret Regular"),url("../fonts/moret/Moret-Regular.woff2") format("woff2"),url("../fonts/moret/Moret-Regular.woff") format("woff2"),url("../fonts/moret/Moret-Regular.eot?#iefix") format("embedded-opentype"),url("../fonts/moret/Moret-Regular.ttf") format("truetype"),url("../fonts/moret/Moret-Regular.svg#Moret-Regular") format("svg");
+    unicode-range:U+000-5FF;
+}

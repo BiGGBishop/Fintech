@@ -1,0 +1,40 @@
+:root {
+  --btn-nav-color: #2a74f5;
+  --btn-back-hover: #2a74f5;
+  --btn-color: #2a74f5;
+  --btn-outlone-color: #2a74f5;
+  --btn-color: #2a74f5;
+  --button-revolutionze: #2a74f5;
+
+  --footer-a: #000;
+  --footer-background: #fff;
+
+  --link-hover: #2a74f5;
+
+  --shape-overlay: #b8daff1c;
+  --header-backg-link: #2a74f5;
+
+  --chevron-up: #2a74f5;
+
+  --preloader: #2a74f5;
+
+  --sub-title: #2a74f5;
+
+  --featured-link: #2a74f5;
+  --blog-link: #2a74f5;
+  
+  --checkbox: #2a74f5;
+
+  --list-item-color: #2a74f5;
+
+  --call-to-action-btn: #2a74f5;
+
+  --swiper-pagination: #2a74f5;
+
+  --price-switch: #2a74f5;
+
+  --faq-switch: #2a74f5;
+
+  --not-found: #2a74f5;
+
+}
